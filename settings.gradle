@@ -1,0 +1,2 @@
+rootProject.name='个人财务管理'
+include ':app'
